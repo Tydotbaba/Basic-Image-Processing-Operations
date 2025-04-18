@@ -7,9 +7,9 @@ OpenCV offers a wealth of functions for various image manipulations. My goal is 
 ## Features
 
 This repository has been divided into two parts:
-- [basic image processing](/advanced%20image%20processing%20operations/)
+- [basic image processing](/basic%20image%20processing%20operations/)
     covers basic image procesing operations.
-- [advanced imageprocessing](/basic%20image%20processing%20operations/)
+- [advanced imageprocessing](/advanced%20image%20processing%20operations/)
     covers more advanced image processing operations
 
 Each operation is explained in detail within the Python notebook, complete with code examples and visual outputs.
