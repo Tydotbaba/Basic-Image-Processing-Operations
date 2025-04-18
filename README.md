@@ -1,14 +1,18 @@
-# Basic Image Processing Operations
+# Image Processing Operations
 
-This repository contains a Python notebook that demonstrates fundamental image processing operations using the popular OpenCV library.
+This repository demonstrates fundamental image processing operations using the popular OpenCV library.
+
+OpenCV offers a wealth of functions for various image manipulations. My goal is to elucidate these operations.
 
 ## Features
-- Colour Space Conversion
-- Image resizing
-- Image Cropping
-- Image Filtering - blurring and sharpening
-- Edge detection
-- Image rotation and flipping
+
+This repository has been divided into two parts:
+- [basic image processing](/advanced%20image%20processing%20operations/)
+    covers basic image procesing operations.
+- [advanced imageprocessing](/basic%20image%20processing%20operations/)
+    covers more advanced image processing operations
+
+Each operation is explained in detail within the Python notebook, complete with code examples and visual outputs.
 
 ## Requirements
 - Python 3.7 or higher
@@ -18,7 +22,7 @@ This repository contains a Python notebook that demonstrates fundamental image p
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/basic-image-processing.git
+    git clone https://github.com/your-username/image-processing.git
     cd basic-image-processing
     ```
 2. Install dependencies:
@@ -55,7 +59,7 @@ Feel free to contribute or raise issues!
 1. Fork the repository on GitHub.
 2. Clone your forked repository:
     ```bash
-    git clone https://github.com/your-username/basic-image-processing.git
+    git clone https://github.com/your-username/image-processing.git
     ```
 3. Create a new branch for your feature or bug fix:
     ```bash
